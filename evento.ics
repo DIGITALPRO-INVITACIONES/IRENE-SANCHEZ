@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DigitalPro//Irene60//ES
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:irene60-20261017@digitalpro-invitaciones
+DTSTAMP:20260929T010000Z
+DTSTART:20261017T190000Z
+SUMMARY:60 años de Irene Jesús Sánchez Escobar
+LOCATION:Domicilio particular\, Villa Taquiña\, Cochabamba
+DESCRIPTION:Celebramos los 60 años de Irene. Hora de Bolivia: 15:00.
+URL:https://maps.app.goo.gl/C5QcDLGmWj56FMgM6
+END:VEVENT
+END:VCALENDAR
